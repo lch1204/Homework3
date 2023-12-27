@@ -1,0 +1,5 @@
+typeMission, dataX, dataY, dataZ, typeDive, moveType, moveTypeDepth, hoodPoint
+lift, -1, -1, 0, spiral, no, no, 0
+dive, -1, -1, 50, vertical, no, no, 0
+return, 0, 0, 0, no, no, no, 0
+

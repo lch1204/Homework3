@@ -1,0 +1,12 @@
+typeMission, dataX, dataY, dataZ, typeDive, moveType, moveTypeDepth, hoodPoint
+dive, -1, -1, 1, spiral, no, no, 0
+dive, -1, -1, 1, spiral, no, no, 0
+dive, -1, -1, 1, spiral, no, no, 0
+dive, -1, -1, 1, spiral, no, no, 0
+return, 0, 0, 0, no, no, no, 0typeMission, dataX, dataY, dataZ, typeDive, moveType, moveTypeDepth, hoodPoint
+dive, -1, -1, 1,  spiral,  no,  no, 0
+dive, -1, -1, 1,  spiral,  no,  no, 0
+dive, -1, -1, 1,  spiral,  no,  no, 0
+dive, -1, -1, 1,  spiral,  no,  no, 0
+return, 0, 0, 0, no, no, no, 0
+
